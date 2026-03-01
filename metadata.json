@@ -1,0 +1,7 @@
+{
+  "name": "Flowstate OS",
+  "description": "AI Productivity OS for students, researchers, and early professionals. Smart dashboard, research copilot, and meeting assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
